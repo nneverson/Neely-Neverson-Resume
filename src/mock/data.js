@@ -17,7 +17,7 @@ export const heroData = {
 
 // ABOUT DATA
 export const aboutData = {
-  img: 'IMG_3045.jpg',
+  // img: 'IMG_3045.jpg',
   paragraphTwo:
     'Full Stack Developer that creates interactive websites and apps for clients that  satisfy their every requirement.',
   paragraphOne: 'Customer satisfaction is always a goal in any project undertaking.',
